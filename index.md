@@ -1,5 +1,3 @@
-<h1> Hello this is my sandbox </h1>
+# Recent Project: Tic Tac Toe
 
-<h3>Recent Projects</h3>
-<h2> Tic Tac Toe</h2>
-<body>Tic tac toe is a game that I could build myself, but I opted to use Copilot to help me </body>
+Tic Tac Toe is a classic game that I decided to recreate as a recent project. With the help of Copilot, I was able to build a version that not only functions well but also includes some interesting features that enhance the gameplay experience.
